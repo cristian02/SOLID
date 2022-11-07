@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Solid.Business/1.0.0": {
+        "dependencies": {
+          "Solid.Abstractions": "1.0.0"
+        },
+        "runtime": {
+          "Solid.Business.dll": {}
+        }
+      },
+      "Solid.Abstractions/1.0.0": {
+        "dependencies": {
+          "Solid.Models": "1.0.0"
+        },
+        "runtime": {
+          "Solid.Abstractions.dll": {}
+        }
+      },
+      "Solid.Models/1.0.0": {
+        "runtime": {
+          "Solid.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Solid.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Solid.Abstractions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Solid.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
