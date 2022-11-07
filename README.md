@@ -1,2 +1,2 @@
 # SOLID
-SOLID principales with C#
+SOLID principales with C# and Java
