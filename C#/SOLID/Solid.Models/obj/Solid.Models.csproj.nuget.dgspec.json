@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\solid\\SOLID\\Solid.Models\\Solid.Models.csproj": {}
+    "D:\\solid\\C#\\SOLID\\Solid.Models\\Solid.Models.csproj": {}
   },
   "projects": {
-    "D:\\solid\\SOLID\\Solid.Models\\Solid.Models.csproj": {
+    "D:\\solid\\C#\\SOLID\\Solid.Models\\Solid.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\solid\\SOLID\\Solid.Models\\Solid.Models.csproj",
+        "projectUniqueName": "D:\\solid\\C#\\SOLID\\Solid.Models\\Solid.Models.csproj",
         "projectName": "Solid.Models",
-        "projectPath": "D:\\solid\\SOLID\\Solid.Models\\Solid.Models.csproj",
+        "projectPath": "D:\\solid\\C#\\SOLID\\Solid.Models\\Solid.Models.csproj",
         "packagesPath": "C:\\Users\\304530347\\.nuget\\packages\\",
-        "outputPath": "D:\\solid\\SOLID\\Solid.Models\\obj\\",
+        "outputPath": "D:\\solid\\C#\\SOLID\\Solid.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

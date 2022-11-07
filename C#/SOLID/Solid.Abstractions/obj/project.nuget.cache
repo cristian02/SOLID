@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pjaJdzwvzfXn3HqX1QIJRsle4a4H8iRVUOYjqlSnO5dvwHCW5zRvmLuI8IxP6Qo/rGlZRm1qaB3oFUNg/yCYFw==",
+  "dgSpecHash": "t2LhrHvGIAnmm2/MxuuxpOIkSUbVPP8zzAaOIqpEahRjDc9BAnccmLKYMjZNvK8+3p/8dncFvbPgZj32FagotA==",
   "success": true,
-  "projectFilePath": "D:\\solid\\SOLID\\Solid.Abstractions\\Solid.Abstractions.csproj",
+  "projectFilePath": "D:\\solid\\C#\\SOLID\\Solid.Abstractions\\Solid.Abstractions.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

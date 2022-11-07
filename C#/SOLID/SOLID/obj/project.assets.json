@@ -15,6 +15,19 @@
           "bin/placeholder/Solid.Abstractions.dll": {}
         }
       },
+      "Solid.Business/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Solid.Abstractions": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Solid.Business.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Solid.Business.dll": {}
+        }
+      },
       "Solid.Models/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -33,6 +46,11 @@
       "path": "../Solid.Abstractions/Solid.Abstractions.csproj",
       "msbuildProject": "../Solid.Abstractions/Solid.Abstractions.csproj"
     },
+    "Solid.Business/1.0.0": {
+      "type": "project",
+      "path": "../Solid.Business/Solid.Business.csproj",
+      "msbuildProject": "../Solid.Business/Solid.Business.csproj"
+    },
     "Solid.Models/1.0.0": {
       "type": "project",
       "path": "../Solid.Models/Solid.Models.csproj",
@@ -42,6 +60,7 @@
   "projectFileDependencyGroups": {
     "net6.0": [
       "Solid.Abstractions >= 1.0.0",
+      "Solid.Business >= 1.0.0",
       "Solid.Models >= 1.0.0"
     ]
   },
@@ -52,11 +71,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\solid\\SOLID\\SOLID\\SOLID.csproj",
+      "projectUniqueName": "D:\\solid\\C#\\SOLID\\SOLID\\SOLID.csproj",
       "projectName": "SOLID",
-      "projectPath": "D:\\solid\\SOLID\\SOLID\\SOLID.csproj",
+      "projectPath": "D:\\solid\\C#\\SOLID\\SOLID\\SOLID.csproj",
       "packagesPath": "C:\\Users\\304530347\\.nuget\\packages\\",
-      "outputPath": "D:\\solid\\SOLID\\SOLID\\obj\\",
+      "outputPath": "D:\\solid\\C#\\SOLID\\SOLID\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -77,11 +96,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\solid\\SOLID\\Solid.Abstractions\\Solid.Abstractions.csproj": {
-              "projectPath": "D:\\solid\\SOLID\\Solid.Abstractions\\Solid.Abstractions.csproj"
+            "D:\\solid\\C#\\SOLID\\Solid.Abstractions\\Solid.Abstractions.csproj": {
+              "projectPath": "D:\\solid\\C#\\SOLID\\Solid.Abstractions\\Solid.Abstractions.csproj"
             },
-            "D:\\solid\\SOLID\\Solid.Models\\Solid.Models.csproj": {
-              "projectPath": "D:\\solid\\SOLID\\Solid.Models\\Solid.Models.csproj"
+            "D:\\solid\\C#\\SOLID\\Solid.Business\\Solid.Business.csproj": {
+              "projectPath": "D:\\solid\\C#\\SOLID\\Solid.Business\\Solid.Business.csproj"
+            },
+            "D:\\solid\\C#\\SOLID\\Solid.Models\\Solid.Models.csproj": {
+              "projectPath": "D:\\solid\\C#\\SOLID\\Solid.Models\\Solid.Models.csproj"
             }
           }
         }

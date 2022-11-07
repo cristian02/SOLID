@@ -9,6 +9,7 @@
       "SOLID/1.0.0": {
         "dependencies": {
           "Solid.Abstractions": "1.0.0",
+          "Solid.Business": "1.0.0",
           "Solid.Models": "1.0.0"
         },
         "runtime": {
@@ -21,6 +22,14 @@
         },
         "runtime": {
           "Solid.Abstractions.dll": {}
+        }
+      },
+      "Solid.Business/1.0.0": {
+        "dependencies": {
+          "Solid.Abstractions": "1.0.0"
+        },
+        "runtime": {
+          "Solid.Business.dll": {}
         }
       },
       "Solid.Models/1.0.0": {
@@ -37,6 +46,11 @@
       "sha512": ""
     },
     "Solid.Abstractions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Solid.Business/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -10,3 +10,15 @@ D:\solid\SOLID\Solid.Models\obj\Debug\net6.0\Solid.Models.dll
 D:\solid\SOLID\Solid.Models\obj\Debug\net6.0\refint\Solid.Models.dll
 D:\solid\SOLID\Solid.Models\obj\Debug\net6.0\Solid.Models.pdb
 D:\solid\SOLID\Solid.Models\obj\Debug\net6.0\ref\Solid.Models.dll
+D:\solid\C#\SOLID\Solid.Models\bin\Debug\net6.0\Solid.Models.deps.json
+D:\solid\C#\SOLID\Solid.Models\bin\Debug\net6.0\Solid.Models.dll
+D:\solid\C#\SOLID\Solid.Models\bin\Debug\net6.0\Solid.Models.pdb
+D:\solid\C#\SOLID\Solid.Models\obj\Debug\net6.0\Solid.Models.csproj.AssemblyReference.cache
+D:\solid\C#\SOLID\Solid.Models\obj\Debug\net6.0\Solid.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\solid\C#\SOLID\Solid.Models\obj\Debug\net6.0\Solid.Models.AssemblyInfoInputs.cache
+D:\solid\C#\SOLID\Solid.Models\obj\Debug\net6.0\Solid.Models.AssemblyInfo.cs
+D:\solid\C#\SOLID\Solid.Models\obj\Debug\net6.0\Solid.Models.csproj.CoreCompileInputs.cache
+D:\solid\C#\SOLID\Solid.Models\obj\Debug\net6.0\Solid.Models.dll
+D:\solid\C#\SOLID\Solid.Models\obj\Debug\net6.0\refint\Solid.Models.dll
+D:\solid\C#\SOLID\Solid.Models\obj\Debug\net6.0\Solid.Models.pdb
+D:\solid\C#\SOLID\Solid.Models\obj\Debug\net6.0\ref\Solid.Models.dll

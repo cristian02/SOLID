@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ffSVptKpwYk2DwwUC38GKcLooFBE1qeaDL2UEBsmK0T1x7ofQ5uXmuNqmat8JsxwfRe9GBtvwEOLa5AT63e8Fw==",
+  "dgSpecHash": "iWqIVyRpT7pQDyRorG+jXGTWUh+ylsEqs1nohBf8+V3vaJ1Z3cyGlobxdGWb+o1qIqWFUvuLz7iIk3qDQGUO9w==",
   "success": true,
-  "projectFilePath": "D:\\solid\\SOLID\\Solid.Business\\Solid.Business.csproj",
+  "projectFilePath": "D:\\solid\\C#\\SOLID\\Solid.Business\\Solid.Business.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

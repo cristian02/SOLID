@@ -9,11 +9,8 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Solid.Abstractions\Solid.Abstractions.csproj" />
+    <ProjectReference Include="..\Solid.Business\Solid.Business.csproj" />
     <ProjectReference Include="..\Solid.Models\Solid.Models.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="O\Solution\" />
   </ItemGroup>
 
 </Project>
