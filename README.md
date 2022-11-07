@@ -1,7 +1,7 @@
 # SOLID
 SOLID principles with C# and Java
 
-S = Single responsability principle 
+S = Single responsability principle <br/>
 O = Open-Closed principle
 
 <!-- CONTACT -->
