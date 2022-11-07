@@ -4,10 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SOLID.I.Solution
+namespace SOLID.D
 {
-    internal interface ISendEmail
+    internal class Log
     {
-        void SendEmail();
+        public void WriteLog(string? msg, Exception? ex = null)
+        {
+
+        }
     }
 }

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SOLID.I.Solution
 {
-    internal interface SendPhone
+    internal interface ISendPhone
     {
         void SendPhone();
     }
