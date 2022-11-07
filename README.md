@@ -5,6 +5,7 @@ S = Single responsability principle <br/>
 O = Open-Closed principle <br/>
 L = Liskov Substitution principle <br/>
 I = Interface Segregation principle <br/>
+D = Dependency Inversion principle 
 
 <!-- CONTACT -->
 ## Contact
