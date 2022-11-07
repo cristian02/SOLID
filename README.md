@@ -2,7 +2,8 @@
 SOLID principles with C# and Java
 
 S = Single responsability principle <br/>
-O = Open-Closed principle
+O = Open-Closed principle <br/>
+L = Liskov Substitution principle <br/>
 
 <!-- CONTACT -->
 ## Contact
