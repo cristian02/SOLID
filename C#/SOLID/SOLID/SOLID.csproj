@@ -13,4 +13,8 @@
     <ProjectReference Include="..\Solid.Models\Solid.Models.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="L\" />
+  </ItemGroup>
+
 </Project>
