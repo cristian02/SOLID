@@ -1,5 +1,7 @@
 # SOLID
-SOLID principales with C# and Java
+SOLID principles with C# and Java
+
+S = Single responsability principle 
 
 <!-- CONTACT -->
 ## Contact
